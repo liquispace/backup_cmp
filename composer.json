@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php": ">=5.4",
+		"clio/clio": "@stable",
+        "cliprz/filesystem": "1.0.*",
+		"monolog/monolog": "dev-master",
+		"wapmorgan/unified-archive": "dev-master"
+    },
+	"autoload": {
+        "psr-0": { "": "vendor/" }
+    }
+}
